@@ -13,7 +13,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adoyle210&theme=nord&hide_border=false&show_icons=true&include_all_commits=true" height="150" alt="GitHub stats graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Adoyle210&theme=nord&hide_border=false&show_icons=true&include_all_commits=true" height="150" alt="GitHub stats graph" /> -->
   <img src="https://streak-stats.demolab.com?user=Adoyle210&theme=nord&hide_border=false&border_radius=5" height="150" alt="GitHub streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adoyle210&layout=compact&langs_count=5&theme=nord&hide_border=false" height="150" alt="Languages graph" />
 </div>
