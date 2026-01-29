@@ -5,8 +5,7 @@
 
 ## About Me
 <div>
- <p> 🔭 I’m currently working on developing immersive educational games using Unreal Engine 5 and 3D environments to create engaging learning experiences as a graduate research assistant. </p> 
- <p> 🌱 I’m currently learning more about blockchain and Web3 technologies to explore how they can revolutionize gaming and interactive media. </p> 
+ <p> 🔭 I’m currently working on developing immersive educational games using Unreal Engine 5 to create engaging learning experiences as a graduate research assistant. </p> 
 </div>
 
 
